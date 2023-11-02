@@ -1,0 +1,13 @@
+.col-md-10{
+    border:solid red;
+    border-radius: 20px;
+    height: 30%;
+}
+
+#myform{
+    border: 5px solid white;
+   }
+  
+   a:hover{
+    text-decoration: none;
+   }

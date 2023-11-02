@@ -1,0 +1,21 @@
+.col-md-10{
+    border:solid rgb(68, 0, 255);
+    border-radius: 20px;
+    height: 30%;
+}
+
+#myimage img{
+    height: 70%;
+    width: 100%;
+}
+#myimage img{
+    height: 100%;
+    width: 100%;
+}
+#myimage img{
+    height: 100%;
+    width: 100%;
+}
+#myform{
+    border: 5px solid white;
+   }

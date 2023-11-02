@@ -1,0 +1,18 @@
+.col-md-10{
+    border:solid red;
+    border-radius: 20px;
+    height: 30%;
+}
+
+.col-md-12 myimgP{
+    height: 100%;
+    width: 100%;
+}
+.col-md-4 h1{
+    font-weight: bold;
+    
+   }
+   #myform{
+    border: 5px solid white;
+   }
+   

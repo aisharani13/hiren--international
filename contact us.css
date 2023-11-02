@@ -1,0 +1,14 @@
+.col-md-10{
+    border:solid rgb(255, 153, 0);
+    border-radius: 20px;
+    height: 30%;
+}
+
+.col-md-12 h1{
+    color: blue;
+    font-weight: bold;
+    
+   }
+   #myform{
+    border: 5px solid white;
+   }

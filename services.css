@@ -1,0 +1,14 @@
+.col-md-10{
+    border:solid rgb(255, 0, 191);
+    border-radius: 20px;
+    height: 30%;
+}
+
+.col-md-3 img{
+    height: 100%;
+    width: 100%;
+}
+#myform{
+    border: 5px solid white;
+   }
+   

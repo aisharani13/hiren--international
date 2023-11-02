@@ -1,0 +1,20 @@
+.col-md-10{
+    border:solid rgb(0, 255, 85);
+    border-radius: 20px;
+    height: 30%;
+}
+
+
+#myimg img{
+    height: 100%;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+#mycontainer{
+    background-color: rgb(224, 231, 231);
+}
+#myform{
+    border: 5px solid white;
+   }
